@@ -1,0 +1,3 @@
+C:\Users\vietd\Desktop\RSA chu ki dien tu\chu ki rsa\chu ki rsa\obj\Release\chu_ki_rsa.Form1.resources
+C:\Users\vietd\Desktop\RSA chu ki dien tu\chu ki rsa\chu ki rsa\obj\Release\chu_ki_rsa.Properties.Resources.resources
+C:\Users\vietd\Desktop\RSA chu ki dien tu\chu ki rsa\chu ki rsa\obj\Release\chu ki rsa.csproj.GenerateResource.Cache
